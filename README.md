@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @wisevenom21
+- 👋 Hi, I’m Abhinav Singh (@wisevenom21)
 - 👀 I’m interested in data analytics
 - 🌱 I’m currently learning python
 - 📫 You can reach me at:- "abhinavas430@gmail.com"
