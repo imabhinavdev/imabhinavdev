@@ -3,13 +3,13 @@
 <h3 align="center">My field of interest is Cloud Computing and Networking.</h3>
 <img src="https://github.com/abhinav0321/abhinav0321/blob/main/files/98636-coding.gif?raw=true" align="right" width="350" >
 
-- 👨‍💻 All of my projects are available at [https://abhinavsingh.me](https://abhinavsingh.me)
+- 👨‍💻 All of my projects are available at [https://alphaabhi.in](https://alphaabhi.in)
 
-- 📝 I regularly write articles on [https://abhinavsingh.me](https://abhinavsingh.me)
+- 📝 I regularly write articles on [https://alphaabhi.in](https://abhinavsingh.me)
 
 - 📫 How to reach me **abhinavas430@gmail.com**
 
-- 📄 Know about my experiences [https://abhinavsingh.me](https://abhinavsingh.me)
+- 📄 Know about my experiences [https://alphaabhi.in](https://alphaabhi.in)
 
 - ⚡ Fun fact **Sometimes funny, sometime serious**
 
@@ -18,8 +18,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/abhinav0321" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="abhinav0321" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/abhinav0321" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhinav0321" height="30" width="40" /></a>
-<a href="https://instagram.com/abhinavsingh.me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abhinavsingh.me" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/madabhi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhinav0321" height="30" width="40" /></a>
+<a href="https://instagram.com/alphaabhi.in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abhinavsingh.me" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
