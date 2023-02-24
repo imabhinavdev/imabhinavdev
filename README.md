@@ -1,4 +1,4 @@
-<a href="https://abhinavsingh.me"><img src="https://github.com/abhinav0321/abhinav0321/blob/main/files/Purple%20Creative%20Graphic%20Designer%20LinkedIn%20Banner.gif?raw=true"></a>
+<a href="https://alphaabhi.in"><img src="https://github.com/abhinav0321/abhinav0321/blob/main/files/Purple%20Creative%20Graphic%20Designer%20LinkedIn%20Banner.gif?raw=true"></a>
 <h1 align="center">Hi 👋, I'm Abhinav Singh</h1>
 <h3 align="center">My field of interest is Cloud Computing and Networking.</h3>
 <img src="https://github.com/abhinav0321/abhinav0321/blob/main/files/98636-coding.gif?raw=true" align="right" width="350" >
