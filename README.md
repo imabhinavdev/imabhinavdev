@@ -2,7 +2,7 @@
 <h1 align="center">Hi 😁, I'm Abhinav Singh</h1>
 <h3 align="center">Passionate computer science student with a love for coding, exploring new technologies, and building innovative solutions.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=madabhi" alt="madabhi" /></a> </p>
+
 
 - 🌱 I’m currently learning **Backend**
 
