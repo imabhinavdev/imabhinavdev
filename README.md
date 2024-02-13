@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **full stack projects**
 
-- 👨‍💻 All of my projects are available at [https://alphaabhi.in](https://alphaabhi.in)
+- 👨‍💻 All of my projects are available at [https://imabhinavsingh.vercel.app/](https://imabhinavsingh.vercel.app/)
 
 - 📫 How to reach me **abhinavas430@gmail.com**
 
