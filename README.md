@@ -1,4 +1,4 @@
-<a href="https://alphaabhi.in"><img src="./files/GithubBanner.gif"></a>
+<a href="https://imabhinav.dev"><img src="./files/GithubBanner.gif"></a>
 <h1 align="center">Hi 👋, I'm Abhinav Singh</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
 
