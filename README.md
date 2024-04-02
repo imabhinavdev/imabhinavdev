@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Abhinav Singh</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
 
-- 🔭 I’m currently working on **Video Calling App**
+- 🔭 I’m currently working as a **Freelancer**
 
-- 🌱 I’m currently learning **Expo and NextJS**
+- 🌱 I’m currently learning **MERN**
 
 - 👯 I’m looking to collaborate on **full stack projects**
 
